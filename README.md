@@ -1,2 +1,2 @@
-# DataSceince
+# DataScience
 Learning data science tools
